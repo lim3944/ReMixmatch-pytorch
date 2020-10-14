@@ -1,1 +1,1 @@
-# ReMixmatch-torch
+# ReMixmatch-pytorch
